@@ -83,8 +83,7 @@
 
     .header-mobile-search {
         padding: 0 12px;
-    }
-    .header-mobile-search {
+        display: flex;
         display: block;
     }
 .header__search-history {
@@ -137,5 +136,8 @@
 }
 .header__logo-img {
     width: 100px;
+}
+.nav-mobile-bar {
+    display: block;
 }
 }
